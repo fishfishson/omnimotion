@@ -2,4 +2,5 @@ out/
 logs/
 __pycache__/
 data/
-preprocssing/RAFT/models.zip
+models.zip
+models/
